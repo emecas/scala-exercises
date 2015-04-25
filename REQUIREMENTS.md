@@ -13,16 +13,21 @@
 
 [Installing and working with Sass and Compass in Windows](http://lawrencenaman.com/blog/sass-compass-windows/)
 
+```bash
 ruby -v
-gem install sass
+```
 
+```bash
+gem install sass
+```
 
 ##Bower
 
 [Install Bower](http://bower.io/#install-bower)
 
+```bash
 bower install
-
+```
 
 ##Grunt
 

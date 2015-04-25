@@ -21,6 +21,11 @@
 source deployIt.sh 
 ```
 
+windows:
+```bash
+cmd /k "deployIt.sh"
+```
+
 - See [previous steps](REQUIREMENTS.md)
 
 ##Attribution
