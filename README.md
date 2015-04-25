@@ -21,6 +21,8 @@
 source deployIt.sh 
 ```
 
+see [previous steps](REQUIREMENTS.md)
+
 ##Attribution
 Scala Koans Copyright © [Scala Koans](http://scalakoans.org) - All Rights Reserved
 
